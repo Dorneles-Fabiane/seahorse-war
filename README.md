@@ -1,4 +1,4 @@
-# Seahorse War - Game
+# Seahorse War
 
 2D game developed with Vanilla JS
 
