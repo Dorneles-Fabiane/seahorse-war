@@ -1,6 +1,6 @@
 # Seahorse War
 
-2D game developed with Vanilla JS
+2D game developed with Vanilla JS using canvas API.
 
 [Jogar](https://dorneles-fabiane.github.io/seahorse-war/)
 
